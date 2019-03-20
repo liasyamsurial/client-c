@@ -26,7 +26,7 @@ public class server {
              
              String receiveMessage, sendMessage;
              
-             While(true)
+             while(true)
              {
                 if((receiveMessage = recvRead.readLine()) != null)
                 {
